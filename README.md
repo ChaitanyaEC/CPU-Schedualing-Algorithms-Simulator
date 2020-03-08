@@ -10,6 +10,3 @@ CPU Schedualing Algorithms Simulator
 <li> Priority Preemptive </li>
 </ol>
 </br>
-<h5> <a href="http://goo.gl/aUuI2Z"> Complete Java project </a> </h5>
-<h5> <a href="http://goo.gl/Y3Xo6N"> Youtube video </a> </h5>
-<h5> <a href="http://goo.gl/xYM5xM"> jar version </a> </h5>
